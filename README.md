@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Thien (Tee)
+- 👀 I’m interested in developing window and web applications using Java, C#, and JavaScript
+- 🌱 I’m currently learning React.js and Node.js -> also expand my knowledge on .NET
+- 📫 You can reach me by thiendo411@gmail.com
